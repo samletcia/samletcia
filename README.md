@@ -1,6 +1,6 @@
 # Olá, eu sou a Samara Letícia! 👋
 
-🚀 **Estudante de Desenvolvimento Full Stack** focada no desenvolvimento de algoritmos performáticos e interfaces imersivas.
+🚀 **Estudante de Desenvolvimento Full Stack** 
 
 ---
 
