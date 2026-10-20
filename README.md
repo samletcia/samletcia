@@ -24,5 +24,5 @@
 
 ### 🔗 Conecte-se comigo
 - 🌐 **Portfólio**: [Acessar Portfólio](https://samletcia.github.io/portfolio)
-- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com)
-- ✉️ **E-mail**: seuemail@exemplo.com
+- 💼 **LinkedIn**: [linkedin.com/in/](https://linkedin.com)
+- ✉️ **E-mail**: sam.letcia@gmail.com
